@@ -1,10 +1,6 @@
 <?php
 
-// EmailVerificationPromptController.php
 
-// EmailVerificationPromptController.php
-
-// EmailVerificationPromptController.php
 
 namespace App\Http\Controllers\Auth;
 
